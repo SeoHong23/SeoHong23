@@ -3,9 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ### 👋 반갑습니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> * 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.</li>  <br> * 😎 나만의 일을 찾기위해 열심히 노력중입니다.</li> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 <ul>
-    <li>안녕하세요! 저는 비전공자 출신의 주니어 백엔드 개발자입니다.<br></li>
+    <li>💻안녕하세요! 저는 비전공자 출신의 주니어 백엔드 개발자입니다.<br></li>
     <li>프로그래밍과 웹 개발에 큰 흥미를 느껴 독학으로 시작했고, 꾸준히 공부하며 개발자로서의 성장을 이루고 있습니다.<br></li>
     <li><b>새로운 기술과 도전</b>을 즐기며, 복잡한 문제를 해결할 때의 성취감을 좋아합니다.<br></li>
     <li>이 페이지는 제가 학습하고 경험한 것들을 기록하고 공유하기 위한 공간입니다.<br></li>
