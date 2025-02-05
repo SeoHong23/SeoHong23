@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text='Seo%20Hong's%20Work%20Log&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ### 👋 반갑습니다! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  👋 반갑습니다! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 <ul>
     <li>💻안녕하세요! 저는 주니어 백엔드 개발자입니다.</li><br>
