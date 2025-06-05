@@ -26,7 +26,7 @@
   
 | **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 25.03.07 (6주) | [눈길(NunGil)] OTT 종합 정보 플랫폼 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 영화상영정보 크롤링, 유저 | [🔗]([https://github.com/jin123346/APPlusMarket_Flutter](https://github.com/SeoHong23/Nungil_Project) | [▶️](https://www.youtube.com/watch?v=uP8ehAsUO-s&t=10s) |
+| 25.01.20 ~ 25.03.07 (6주) | [눈길(NunGil)] OTT 종합 정보 플랫폼 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 영화상영정보 크롤링, 유저 | [🔗](https://github.com/SeoHong23/Nungil_Project) | [▶️](https://www.youtube.com/watch?v=uP8ehAsUO-s&t=10s) |
 | 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
 | 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | [🔗](https://github.com/minhi0446/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 
