@@ -21,7 +21,32 @@
 | <a href="mailto:p54492408@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/SW-199be7effd3880d59fccc3ea1efdc1f9?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://seohong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/SeoHong23?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@%EC%84%9C%ED%99%8D%EB%B0%95"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 </div>
 
+<h2>🔍 프로젝트 </h2>
+<div align="center">
+  
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 거래(결제/충전) | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | [▶️](https://github.com/minhi0449/antwork) |
+| 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
+| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | [🔗](https://github.com/minhi0446/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 
+
+</div>
+
+
+
+<!-- 프로젝트 담당기능 아이콘
+## 🔍 프로젝트
+<div align="center">
+  
+| 작업 기한 | 프로젝트 명 | 기술 스택 | 담당 기능 | 링크 | 시연 영상 |
+|:--------:|:------------:|:---------:|:----------:|:-----:|:----------:|
+| 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/flutter" alt="Flutter" /> <img height="18" src="https://cdn.simpleicons.org/dart" alt="Dart" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 거래(결제/충전) | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | [▶️](https://github.com/minhi0449/antwork) |
+| 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/react" alt="React" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
+| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 회원 | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
+</div>
+
+-->
 
 
 
