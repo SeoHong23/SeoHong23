@@ -96,9 +96,14 @@
   <img src="https://img.shields.io/badge/Android%20Studio-30bd88?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=SeoHong23&bg_color=180,8ebeec,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoHong23&layout=compact&bg_color=180,8ebeec,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+
+
+
+  <h2>📊 GitHub 통계</h2>
+<div align="center" style="margin: 30px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeoHong23&custom_title=박서홍%27s%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoHong23&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
+  </div>
+</div>
     
