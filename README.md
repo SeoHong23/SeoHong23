@@ -106,4 +106,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoHong23&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
   </div>
 </div>
+
+
+<br>
+
+<h2>📌 GitHub 3D 활동 그래프</h2>
+<div align="center">
+  <img src="https://ghchart.rshah.org/SeoHong23" alt="SeoHong23's Github chart" />
+</div>
     
