@@ -45,6 +45,9 @@
 | 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/react" alt="React" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
 | 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 회원 | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 </div>
+
+-->
+
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
 <div align="center">
@@ -72,6 +75,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" alt="Maven" /> <!-- 자바 빌드 도구 -->
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /> <!-- 자바 빌드 도구 -->
 </div>
+
 
 <h2>🔧 개발 도구</h2>
 <div align="center">
