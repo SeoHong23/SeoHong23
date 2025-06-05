@@ -111,6 +111,7 @@
 
 <h2>📌 GitHub 3D 활동 그래프</h2>
 <div align="center">
-  <img src="https://ghchart.rshah.org/SeoHong23" alt="SeoHong23's Github chart" />
+  <img src="https://raw.githubusercontent.com/SeoHong23/SeoHong23/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
+
 
