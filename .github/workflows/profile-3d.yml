@@ -1,20 +1,26 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # 매일 자정 자동 생성
-  workflow_dispatch:       # 수동 실행도 가능
-
-permissions:
-  contents: write
+  schedule:        # 매일 오전 3시 (KST 기준, UTC 18:00)
+    - cron: "0 18 * * *"
+  workflow_dispatch:  # 수동 실행도 가능
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/checkout@v2
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: SeoHong23
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}         # 직접 생성한 PAT을 secret에 등록해야 합니다
+          USERNAME: SeoHong23                         # 사용자명 명시
+
+      - name: Commit & Push
+        run: |
+          git config user.name SeoHong23
+          git config user.email ghd2408@naver.com
+          git add -A .
+          git commit -m "generated"
+          git push
