@@ -18,22 +18,11 @@
   
 | **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **개발 컨텐츠** |
 |:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
-|<div align="center">
-  | <a href="mailto:p54492408@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a> 
-  | <a href="https://www.notion.so/SW-199be7effd3880d59fccc3ea1efdc1f9?source=copy_link">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    </a> 
-  | <a href="https://seohong.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" />
-    </a> 
-  | <a href="https://github.com/SeoHong23?tab=repositories">
-      <img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" />
-    </a> 
-  | <a href="https://www.youtube.com/@%EC%84%9C%ED%99%8D%EB%B0%95">
-      <img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a> |
+| <a href="mailto:p54492408@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+| <a href="https://www.notion.so/SW-199be7effd3880d59fccc3ea1efdc1f9?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> 
+| <a href="https://seohong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> 
+| <a href="https://github.com/SeoHong23?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> 
+| <a href="https://www.youtube.com/@%EC%84%9C%ED%99%8D%EB%B0%95"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 </div>
 
 
